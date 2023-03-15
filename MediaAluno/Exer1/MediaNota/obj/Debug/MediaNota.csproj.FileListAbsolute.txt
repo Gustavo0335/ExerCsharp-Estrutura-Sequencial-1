@@ -1,0 +1,8 @@
+C:\Users\Rithyele\Desktop\ProgramDesk\Estudos\Exercicios\ExerC#\ExerciciosCsharp\Exer1\Exer1\MediaNota\bin\Debug\MediaNota.exe.config
+C:\Users\Rithyele\Desktop\ProgramDesk\Estudos\Exercicios\ExerC#\ExerciciosCsharp\Exer1\Exer1\MediaNota\bin\Debug\MediaNota.exe
+C:\Users\Rithyele\Desktop\ProgramDesk\Estudos\Exercicios\ExerC#\ExerciciosCsharp\Exer1\Exer1\MediaNota\bin\Debug\MediaNota.pdb
+C:\Users\Rithyele\Desktop\ProgramDesk\Estudos\Exercicios\ExerC#\ExerciciosCsharp\Exer1\Exer1\MediaNota\obj\Debug\MediaNota.csproj.AssemblyReference.cache
+C:\Users\Rithyele\Desktop\ProgramDesk\Estudos\Exercicios\ExerC#\ExerciciosCsharp\Exer1\Exer1\MediaNota\obj\Debug\MediaNota.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rithyele\Desktop\ProgramDesk\Estudos\Exercicios\ExerC#\ExerciciosCsharp\Exer1\Exer1\MediaNota\obj\Debug\MediaNota.csproj.CoreCompileInputs.cache
+C:\Users\Rithyele\Desktop\ProgramDesk\Estudos\Exercicios\ExerC#\ExerciciosCsharp\Exer1\Exer1\MediaNota\obj\Debug\MediaNota.exe
+C:\Users\Rithyele\Desktop\ProgramDesk\Estudos\Exercicios\ExerC#\ExerciciosCsharp\Exer1\Exer1\MediaNota\obj\Debug\MediaNota.pdb
