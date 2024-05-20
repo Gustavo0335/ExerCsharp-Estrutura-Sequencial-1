@@ -1,0 +1,15 @@
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\SomaValores\SomaValores\bin\Debug\net8.0\SomaValores.exe
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\SomaValores\SomaValores\bin\Debug\net8.0\SomaValores.deps.json
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\SomaValores\SomaValores\bin\Debug\net8.0\SomaValores.runtimeconfig.json
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\SomaValores\SomaValores\bin\Debug\net8.0\SomaValores.dll
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\SomaValores\SomaValores\bin\Debug\net8.0\SomaValores.pdb
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\SomaValores\SomaValores\obj\Debug\net8.0\SomaValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\SomaValores\SomaValores\obj\Debug\net8.0\SomaValores.AssemblyInfoInputs.cache
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\SomaValores\SomaValores\obj\Debug\net8.0\SomaValores.AssemblyInfo.cs
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\SomaValores\SomaValores\obj\Debug\net8.0\SomaValores.csproj.CoreCompileInputs.cache
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\SomaValores\SomaValores\obj\Debug\net8.0\SomaValores.sourcelink.json
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\SomaValores\SomaValores\obj\Debug\net8.0\SomaValores.dll
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\SomaValores\SomaValores\obj\Debug\net8.0\refint\SomaValores.dll
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\SomaValores\SomaValores\obj\Debug\net8.0\SomaValores.pdb
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\SomaValores\SomaValores\obj\Debug\net8.0\SomaValores.genruntimeconfig.cache
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\SomaValores\SomaValores\obj\Debug\net8.0\ref\SomaValores.dll
