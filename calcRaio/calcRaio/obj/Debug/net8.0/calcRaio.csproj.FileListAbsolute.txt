@@ -1,0 +1,15 @@
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\calcRaio\calcRaio\bin\Debug\net8.0\calcRaio.exe
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\calcRaio\calcRaio\bin\Debug\net8.0\calcRaio.deps.json
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\calcRaio\calcRaio\bin\Debug\net8.0\calcRaio.runtimeconfig.json
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\calcRaio\calcRaio\bin\Debug\net8.0\calcRaio.dll
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\calcRaio\calcRaio\bin\Debug\net8.0\calcRaio.pdb
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\calcRaio\calcRaio\obj\Debug\net8.0\calcRaio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\calcRaio\calcRaio\obj\Debug\net8.0\calcRaio.AssemblyInfoInputs.cache
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\calcRaio\calcRaio\obj\Debug\net8.0\calcRaio.AssemblyInfo.cs
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\calcRaio\calcRaio\obj\Debug\net8.0\calcRaio.csproj.CoreCompileInputs.cache
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\calcRaio\calcRaio\obj\Debug\net8.0\calcRaio.sourcelink.json
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\calcRaio\calcRaio\obj\Debug\net8.0\calcRaio.dll
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\calcRaio\calcRaio\obj\Debug\net8.0\refint\calcRaio.dll
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\calcRaio\calcRaio\obj\Debug\net8.0\calcRaio.pdb
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\calcRaio\calcRaio\obj\Debug\net8.0\calcRaio.genruntimeconfig.cache
+C:\Users\Cleiton\source\repos\Gustavo0335\ExerciciosC-\calcRaio\calcRaio\obj\Debug\net8.0\ref\calcRaio.dll
